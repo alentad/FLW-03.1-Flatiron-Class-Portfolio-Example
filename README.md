@@ -1,12 +1,12 @@
 <p>This is your class portfolio! The portfolio includes information about the company, class, Code Nation, and links to all students' portfolios (as they get completed).</p>
 <p>We will revisit this portfolio at times throughout the year to update and it is a great one-stop-shop for your program information.</p>
 
-# Class Portfolio README
+# Student Portfolio README
 
 
 ## Set up
 
-- [x] Go to the repository.
+- [ ] Go to the repository.
 
 - [ ] Fork this repository to your GitHub account.
 
